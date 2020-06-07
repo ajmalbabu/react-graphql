@@ -22,7 +22,7 @@ React client that connects to the graphql server using apollo client using apoll
 1. This project is created by watching [this](https://www.youtube.com/watch?v=SEMTj8w04Z8) video Space X [API](https://docs.spacexdata.com/?version=latest)
 2. [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements#react-class-component-syntax)
 3. [React Conditional Rendering](https://www.robinwieruch.de/conditional-rendering-react)
-4. [React Function Components](https://www.robinwieruch.de/react-function-component#react-function-component-example)
+4. [React Function Components](https://www.robinwieruch.de/react-function-component)
 5. [From Class Components to Function Components](https://www.robinwieruch.de/react-hooks-migration)
 6. [Bootstrap is copied as CSS into /public/index.css from bootswatch](https://bootswatch.com/cyborg/)
 7. [React official guide, composition over ingeritance and all reaat stuff](https://reactjs.org/docs/thinking-in-react.html)
