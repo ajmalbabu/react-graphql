@@ -2,7 +2,7 @@
 ## Graphql endpoints. Also this include a react based client applicaiton that connects to the above graphql server
 
  
-React client that connects to the graphql server using apollo client using apollo graphql react hooks react application uses react-router, most of react components are developed using functional Javascript approach rather than class based component
+React client that connects to the graphql server using apollo client using apollo graphql react hooks, also application uses react-router, most of react components are developed using functional Javascript approach rather than class based component
  
 ### To run server
  
