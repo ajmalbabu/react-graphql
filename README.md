@@ -29,7 +29,7 @@ React client that connects to the graphql server using apollo client using apoll
 8. [ES6 video](https://scrimba.com/g/gintrotoes6?utm_source=freecodecamp.org&utm_medium=referral&utm_campaign=gintrotoes6_launch_article)
 9. [Understanding JavaScript Function Invocation and "this"](https://yehudakatz.com/2011/08/11/understanding-javascript-function-invocation-and-this/)
 10. [ES6 core features]( https://www.youtube.com/watch?v=48Qe0R_VGx4&list=PLC3y8-rFHvwjpiZ3nGb1J0_j2qxFkmHf2&index=5)
-11. [Learn these 8 Javascript](https://www.youtube.com/watch?v=06FbxpDYEQY&list=PLC3y8-rFHvwjpiZ3nGb1J0_j2qxFkmHf2&index=4)
+11. [Learn these 8 Javascript concepts](https://www.youtube.com/watch?v=06FbxpDYEQY&list=PLC3y8-rFHvwjpiZ3nGb1J0_j2qxFkmHf2&index=4)
 
 
 To find process id of running process on Mac at PORT ```lsof -i :5000```
