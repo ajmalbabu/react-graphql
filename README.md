@@ -3,13 +3,13 @@
 
  
 React client that connects to the graphql server using apollo client using apollo graphql react hooks, also application uses react-router, most of react components are developed using functional Javascript approach rather than class based component
- 
+
 ### To run server
  
 1. npm install
 2. npm run server
  
-### To run client
+### To run react client
  
 1. cd client
 2. npm install
@@ -31,6 +31,9 @@ React client that connects to the graphql server using apollo client using apoll
 10. [ES6 core features]( https://www.youtube.com/watch?v=48Qe0R_VGx4&list=PLC3y8-rFHvwjpiZ3nGb1J0_j2qxFkmHf2&index=5)
 11. [Learn these 8 Javascript concepts](https://www.youtube.com/watch?v=06FbxpDYEQY&list=PLC3y8-rFHvwjpiZ3nGb1J0_j2qxFkmHf2&index=4)
 
+### Graphql code-generator
+
+[GtaphQL code generator](https://github.com/dotansimha/graphql-code-generator) can generate graphql code from schema and mutation. It can generate Type defintions, hooks for operations etc. More details [here](https://graphql-code-generator.com/#live-demo) 
 
 To find process id of running process on Mac at PORT ```lsof -i :5000```
  
